@@ -10,8 +10,7 @@ All the simulations have been performed using the following settings:
 - occupancy level: 100% (120 passengers);
 - luggage situation: S1 (described in our paper).
 
-> Suggestions: 
-> 1. You can download the animations below in order to watch them at a higher resolution.
+> Suggestion: You can download the animations below in order to watch them at a higher resolution.
 
 ### 1. g1 = 25, g2a = 24 (G1 = 50, G2 = 58, G3 = 12)
 [![25-24](recordings/25-24.gif)](https://www.youtube.com/watch?v=wkVa2p88420)
