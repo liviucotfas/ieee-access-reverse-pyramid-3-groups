@@ -1,6 +1,6 @@
 Recordings of the simulations presented in 
 ### **"Determining the Number of Passengers for Each of Three Reverse Pyramid Boarding Groups with COVID-19 Flying Restrictions"** 
-submitted to the `IEEE Access` journal. 
+submitted to the `Symmetry` journal. 
 
 Please feel free to contact us at liviu.cotfas at ase .ro for further details. 
 
