@@ -4,7 +4,7 @@ published in the `Symmetry` journal.
  
  
  
-The published paper is available at https://www.mdpi.com/2073-8994/12/12/2038 . Please feel free to contact us at liviu.cotfas at ase .ro for further details. 
+The paper is available at https://www.mdpi.com/2073-8994/12/12/2038 . Please feel free to contact us at liviu.cotfas at ase .ro for further details. 
 
 ## Boarding Scenarios
 
