@@ -2,6 +2,8 @@ Recordings of the simulations presented in
 ### **"Determining the Number of Passengers for Each of Three Reverse Pyramid Boarding Groups with COVID-19 Flying Restrictions"** 
 published in the `Symmetry` journal.
 
+
+
 The published paper is available at https://www.mdpi.com/2073-8994/12/12/2038 . Please feel free to contact us at liviu.cotfas at ase .ro for further details. 
 
 ## Boarding Scenarios
